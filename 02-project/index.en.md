@@ -5,6 +5,8 @@
 **Email:** [valery.hww@gmail.com](mailto:valery.hww@gmail.com)  
 **Publication Date:** October 5, 2022
 
+![Title](images/title.png)
+
 ---
 
 ## Abstract
