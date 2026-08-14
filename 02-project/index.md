@@ -15,8 +15,6 @@
 
 Этот документ является частью серии статей на тему структурирования игрового проекта.
 
-**Первая статья из серии** — [«Именование файлов в Unity 3D»](https://docs.google.com/document/d/e/2PACX-1vS3qR_vg_-AnNhv7eWRRUbA8_4-ssVMO2dpC5t2GLzU101CbTGHAxcUVCsRmgXSkyizKkovPKNUnAHx/pub) — посвящена техникам именования файлов.
-
 ---
 
 ## Теги

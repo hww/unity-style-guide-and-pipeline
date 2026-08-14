@@ -1,7 +1,7 @@
 # Part 1 - File Naming in Unity 3D
 
 **Valeria Pudova (hww)**  
-💬 Telegram: @core_systems_eng  
+💬 Telegram: @valery_h2w
 ✉️ Email: valery.hww@gmail.com  
 📅 22.09.2022
 
@@ -9,9 +9,18 @@
 
 ---
 
+## Abstract
+
+To streamline the workflow and facilitate rapid onboarding of new employees, a comprehensive set of guidelines for file organization within the project is essential. This document proposes a general project structure and provides recommendations for creating game software modules.
+
+This document is part of a series of articles on structuring game projects.
+
+---
+
 ## 📌 Table of Contents
 
 - [Part 1 - File Naming in Unity 3D](#part-1---file-naming-in-unity-3d)
+  - [Abstract](#abstract)
   - [📌 Table of Contents](#-table-of-contents)
   - [Introduction](#introduction)
     - [Two Primary File Naming Styles](#two-primary-file-naming-styles)

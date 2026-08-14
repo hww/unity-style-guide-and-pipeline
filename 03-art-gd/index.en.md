@@ -1,7 +1,7 @@
 # Part 3 - Organization of Art and GD Data in Unity 3D
 
 **Author:** Valeriya Pudova (hww)  
-**Telegram:** @core_systems_eng  
+**Telegram:** @valery_h2w
 **Email:** valery.hww@gmail.com  
 **Date:** 22.10.2022
 
@@ -9,9 +9,18 @@
 
 ---
 
+## Abstract
+
+To streamline the workflow and facilitate rapid onboarding of new employees, a comprehensive set of guidelines for file organization within the project is essential. This document proposes a general project structure and provides recommendations for creating game software modules.
+
+This document is part of a series of articles on structuring game projects.
+
+---
+
 ## 📌 Table of Contents
 
 - [Part 3 - Organization of Art and GD Data in Unity 3D](#part-3---organization-of-art-and-gd-data-in-unity-3d)
+  - [Abstract](#abstract)
   - [📌 Table of Contents](#-table-of-contents)
   - [Introduction](#introduction)
   - [Folder Names by Aspects](#folder-names-by-aspects)
