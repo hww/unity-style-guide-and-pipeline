@@ -10,6 +10,13 @@ Unlike subjective "how-I-do-it" lists, this repository delivers an **analytical 
 
 ---
 
+## 👤 About the Author & More Game Dev Insights
+Discover more deep-dives, industry breakdowns, and technical articles on my personal **[Game Dev Portfolio](https://hww.github.io/ "HWW Portfolio")**:
+* 📑 **Featuring:** **"Gameplay Developing: The Last of Us" Case Study** — an analytical deconstruction of advanced gameplay systems and narrative pacing.
+* 🚀 Explore more comprehensive resources on systems design, production pipelines, and game architecture.
+
+---
+
 <table align="center">
 <tr>
   <td align="center" width="33%">
