@@ -50,9 +50,10 @@ A production-ready pipeline analysis focused on data integration. It covers how 
 
 ## 🚀 Key Benefits & Analytical Approach
 
+* **Analytical Blueprint:** Master the core principles laid out here to use them directly, or engineer your own custom pipeline tailored to your game's unique needs. This guide teaches you to build systems based on rigorous logic and analytics, not random choices.
 * **Data-Driven Architecture:** Developed by analyzing common pipeline bottlenecks in production, not personal aesthetic preferences.
 * **Commercial Validation:** Proven to minimize onboarding time and automated build failures in multiple shipped commercial titles.
-* **Engine Agnostic Core:** While optimized for Unity's meta-file system, the underlying organizational logic seamlessly translates to Unreal Engine or Godot.
+* **Engine Agnostic Core:** While optimized for Unity's meta-file system, the underlying organizational logic seamlessly translates to Unreal Engine, Godot, or proprietary tech.
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
