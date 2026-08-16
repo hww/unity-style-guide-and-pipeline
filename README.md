@@ -33,18 +33,18 @@ Unlike subjective "how-I-do-it" lists, this repository delivers an **analytical 
 
 ### 🔹 Part 1: File Naming Conventions
 An in-depth analysis of file organization mechanics. Instead of just enforcing prefixes, it breaks down the core naming techniques required for global project clarity. It eliminates ambiguity in team collaboration and ensures assets are easily indexed by both human developers and automated scripts.
-* 📦 **[EN] Read English Article](./01-naming/index.en.md)**
-* 🇷🇺 **[RU] Читать на русском](./01-naming/index.md)**
+* 📦 [EN] Read English Article](./01-naming/index.en.md)
+* 🇷🇺 [RU] Читать на русском](./01-naming/index.md)
 
 ### 🔹 Part 2: Project File Organization
 A structural blueprint proposing a highly scalable project directory system. This section analyzes asset lifecycles and proposes a directory architecture designed specifically to streamline asset management. It directly addresses SCM (Git/SVN) performance, drastically reducing merge conflicts and optimizing checkout times in large-scale repositories.
-* 📦 **[EN] Read English Article](./02-project/index.en.md)**
-* 🇷🇺 **[RU] Читать на русском](./02-project/index.md)**
+* 📦 [EN] Read English Article](./02-project/index.en.md)
+* 🇷🇺 [RU] Читать на русском](./02-project/index.md)
 
 ### 🔹 Part 3: Art and Game Design Data Organization
 A production-ready pipeline analysis focused on data integration. It covers how raw art assets, configuration files, and Game Design data should be structured outside and inside Unity. It establishes seamless asset pipelines from DCC tools (Blender, Maya, Photoshop) to Unity's internal database, mitigating broken references and ensuring smooth updates.
-* 📦 **[EN] Read English Article](./03-art-gd/index.en.md)**
-* 🇷🇺 **[RU] Читать на русском](./03-art-gd/index.md)**
+* 📦 [EN] Read English Article](./03-art-gd/index.en.md)
+* 🇷🇺 [RU] Читать на русском](./03-art-gd/index.md)
 
 ---
 
